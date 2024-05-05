@@ -25,7 +25,9 @@ WingPilot integrates intelligent suggestions into the record creation process, p
 
 ## Demo
 <!-- demo link -->
-will be added soon.
+
+https://github.com/SauravKumarMahato/WingPilot/assets/83631265/cda82d7e-d103-434a-8b35-1a5d676f6f9f
+
 
 ## Installation & Running Project
 

@@ -6,6 +6,7 @@ Simplify your data management experience with WingPilot, a versatile tool design
 
 - [Features](#features)
 - [Demo](#demo)
+- [TechStack](#techstack)
 - [Installation & Running Project](#installation--running-project)
 - [Contributing](#contributing)
 - [License](#license)
@@ -27,6 +28,13 @@ WingPilot integrates intelligent suggestions into the record creation process, p
 <!-- demo link -->
 
 https://github.com/SauravKumarMahato/WingPilot/assets/83631265/cda82d7e-d103-434a-8b35-1a5d676f6f9f
+
+## TechStack
+
+- Next JS
+- TypeScript
+- Material UI (Tailwind)
+- CopilotKit
 
 
 ## Installation & Running Project

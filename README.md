@@ -2,6 +2,10 @@
 
 Simplify your data management experience with WingPilot, a versatile tool designed to streamline interaction with employee datasets. WingPilot offers intuitive features for discussing insights, adding new employees, and removing outdated information, all through a user-friendly chat interface powered by Copilot Kit.
 
+
+## Dev.to Article
+https://dev.to/sauravkumarmahato/project-using-copilotkit-with-nextjs-implementing-chatbot-and-autosuggestion-4ehh
+
 ## Table of Contents
 
 - [Features](#features)
